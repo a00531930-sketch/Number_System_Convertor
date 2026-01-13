@@ -1,0 +1,39 @@
+.container{
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+    background-color: blueviolet;
+}
+.head{
+    font-size: 24px;
+    font-weight: bold;
+    color: antiquewhite;
+}
+.dropdown{
+    margin-top: 2vh;
+}
+.input_output{
+    color: antiquewhite;
+    display: flex;
+    width: 60%;
+    margin-top: 2vh;
+}
+.input{
+    margin-left: 7%;
+    text-align: left;
+}
+.output{
+    margin-left: 7%;
+    text-align: left;
+}
+.convert_button{
+    margin-top: 2vh;
+}
+button{
+    font-size: 18px;
+    background-color: goldenrod;
+    color: azure;
+}
+button:hover{
+    cursor: pointer;
+}
