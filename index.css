@@ -17,6 +17,7 @@
     display: flex;
     width: 60%;
     margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 .input{
     margin-left: 7%;
@@ -28,6 +29,7 @@
 }
 .convert_button{
     margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 button{
     font-size: 18px;
@@ -36,4 +38,16 @@ button{
 }
 button:hover{
     cursor: pointer;
+}
+/* .remaining_system{
+    text-align: center;
+    color: antiquewhite;
+    width: 60%;
+    margin-top: 6vh;
+} */
+label{
+    color: antiquewhite;
+}
+textarea{
+    font-size: 20px;
 }
